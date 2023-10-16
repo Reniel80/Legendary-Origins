@@ -1,0 +1,127 @@
+{
+	"layer.legendary_origins.class.name": "Clase",
+
+	"origin.legendary_origins.class/adventurer.name": "Aventurero",
+	"origin.legendary_origins.class/adventurer.description": "Al aventurero le apasiona explorar y descubrir. Siempre va preparado con objetos esenciales para la supervivencia y está alerta ante cualquier peligro potencial.\n",
+	
+	"origin.legendary_origins.class/hunter.name": "Cazador",
+	"origin.legendary_origins.class/hunter.description": "Los cazadores utilizan principalmente ataques a distancia con habilidades de tiro con arco.\n\nComienza con un arco y medio stack de flechas.\n\nPuede detectar entidades vivas cercanas en los bosques cuando se desplaza sigilosamente.\n\nA medianoche, en las copas de los árboles y a la luz de la luna, el radio de detección será mayor.\n\nInflige más daño de proyectil según la distancia y el enfoque.\n\nEl cazador obtiene más materiales y recursos de lo habitual: cuero, piel, lana, carne, hilo, plumas, escamas de tortuga y otras bonificaciones interesantes\n",
+
+	"origin.legendary_origins.class/magician.name": "Mago",
+	"origin.legendary_origins.class/magician.description": "Los magos derriban a sus enemigos, los mantienen a distancia o los retienen con hechizos arcanos o elementales.\n\nTodos los hechizos ofensivos, defensivos y las trampas mágicas dependen del poder mágico.\n\nEl poder mágico se regenerará lentamente.\n\nLas pociones de regeneración restauran el Poder Mágico.\n",
+
+	"origin.legendary_origins.class/rogue.name": "Pícaro",
+	"origin.legendary_origins.class/rogue.description": "Los pícaros suelen iniciar el combate con un ataque sorpresa desde las sombras. Siempre están alerta para esconderse o huir si la batalla se vuelve en su contra.\n",
+
+	"origin.legendary_origins.class/warrior.name": "Guerrero",
+	"origin.legendary_origins.class/warrior.description": "Los guerreros siempre están listos para luchar y la mayoría de los ataques que reciben se reflejan en su escudo y armadura pesada.\n",
+
+	"origin.legendary_origins.class/druid.name": "Druida",
+	"origin.legendary_origins.class/druid.description": "Sus diferentes aspectos y habilidades los convierten en seres superiores. Bendecidos por la madre naturaleza y reconocidos como 'Maestro de Bestias'.\n",
+
+	"origin.legendary_origins.race/dwarf.name": "Enano",
+	"origin.legendary_origins.race/dwarf.description": "Audaces y resistentes, los enanos son conocidos como hábiles luchadores, mineros y artesanos de la piedra y el metal.\n\nSiempre están motivados por el deseo de conseguir tesoros y la buena suerte siempre los acompaña.\n\nAcostumbrados a la vida bajo tierra, tienen una visión superior en condiciones de oscuridad y penumbra.",
+
+	"origin.legendary_origins.race/elf.name": "Elfo",
+	"origin.legendary_origins.race/elf.description": "Los elfos son una antigua raza de humanoides, veneran a la madre naturaleza, son inteligentes y muy letales en los bosques.",
+
+	"origin.legendary_origins.race/human.name": "Humano",
+	"origin.legendary_origins.race/human.description": "Los humanos son los más adaptables y ambiciosos entre las razas comunes.\n\nTienen costumbres muy variadas y viven plenamente el presente, lo que les hace idóneos para la vida aventurera.\n\nSon carismáticos y excelentes comerciantes.",
+
+	"origin.legendary_origins.race/orc.name": "Orco",
+	"origin.legendary_origins.race/orc.description": "Salvajes e intrépidos, los orcos siempre están a la caza de enemigos a los que destruir.\n\nMotivados por su odio a las razas civilizadas y su necesidad de demostrar que son los luchadores mas feroces del mundo.",
+	
+	"power.legendary_origins.race/human.name": "Habilidades",
+	"power.legendary_origins.race/human.description": "Comerciante experto: Llevando 1 esmeralda en la mano principal, al negociar con un comerciante ambulante, el humano puede sobornarlo para obtener notables descuentos de todos los comerciantes de las aldeas cercanas durante un tiempo considerable y solo una vez al día.",
+
+	"power.legendary_origins.race/elf.name": "Habilidades",
+	"power.legendary_origins.race/elf.description": "Se vuelve casi indetectable cuando se esconde entre la hierba alta o los arbustos.\n\nPuede trepar a los árboles y abrirse paso entre sus hojas para avanzar o para camuflarse.\n\nTiene un buen agarre para realizar fácilmente maniobras de un árbol a otro.\n\nPuede reducir el daño de las caídas agachándose antes de tocar el suelo.\n\nTiene una resistencia moderada al veneno y una visión nocturna mejorada.\n\nLa velocidad de movimiento en tierra es mejor que en otros entornos, al igual que la altura de los saltos.",
+
+	"power.legendary_origins.race/orc.name": "Habilidades",
+	"power.legendary_origins.race/orc.description": "Comienza con un Hacha de piedra.\n\nCon una fuerza bruta natural y un daño base extra, el orco es sin duda un oponente peligroso.\n\nCon un cuerpo fuerte y musculoso, el orco tiene una impresionante resistencia al derribo.\n\nLas hachas no son sólo una herramienta, el entrenamiento y el uso constante han permitido aumentar la velocidad de ataque y el daño, transformándola en una poderosa arma de guerra.",
+	
+	"power.legendary_origins.race/dwarf.name": "Habilidades",
+	"power.legendary_origins.race/dwarf.description": "Comienza con un pico y una pala de piedra.\n\nSu velocidad minera es superior a la del resto de razas.\n\nEl pico, al ser una herramienta de uso constante, se ha convertido también en un arma, aumentando su daño y velocidad de ataque.\n\nTiene visión moderada en la oscuridad.\n\nDebido a la prolongada exposición al calor en las profundidades de la tierra, han adquirido una notable resistencia a las altas temperaturas.",
+	
+	"power.legendary_origins.class/adventurer/core.name": "Habilidades",
+	"power.legendary_origins.class/adventurer/core.description": "Comienza con algunos objetos esenciales para la supervivencia: hacha, brújula, caña de pescar, catalejo, comida y más.\n\nPuede escalar árboles, montañas y cuevas si tiene las manos completamente libres y depende de la energía.\n\nLa energía se agotará al correr, nadar o escalar, aunque puede recuperarse lentamente descansando o durmiendo.\n",
+	
+	"power.legendary_origins.class/adventurer/backpack.name": "Mochila",
+	"power.legendary_origins.class/adventurer/backpack.description": "Todo aventurero lleva siempre una mochila con suficiente espacio para almacenar lo imprescindible para su supervivencia.\n",
+	
+	"power.legendary_origins.class/adventurer/pocket.name": "Bolsillos",
+	"power.legendary_origins.class/adventurer/pocket.description": "Almacenamiento extra de acceso rápido para objetos importantes o de valor. Estos objetos se conservarán aún si el aventurero muere.",
+	
+	"power.legendary_origins.class/warrior/rage.name": "Furia Imparable",
+	"power.legendary_origins.class/warrior/rage.description": "Por cada enemigo que derrota, el guerrero va incrementando su sed de sangre y aniquilación hasta estallar en una violenta descarga de golpes críticos mortales.\n",
+
+	"power.legendary_origins.class/warrior/tank.name": "Defensa Inquebrantable",
+	"power.legendary_origins.class/warrior/tank.description": "Cada vez que el guerrero recibe daños físicos mientras porta un escudo, su habilidad de absorber parte de ellos, comenzará a acumular poder defensivo de forma progresiva hasta convertirse en un estallido temporal de inmunidad a ese tipo de daño.\n\nGolpe de escudo:\n• Utiliza poder defensivo acumulado para embestir, dañar y sacar por los aires a todo el que esté en frente.\n• Activación:\n[Shift]+[Clic Derecho]\n• Distancia: 5 bloques\n• Recarga: 10 segundos.",
+	
+	"power.legendary_origins.class/magician/fireball.name": "Bola de Fuego",
+	"power.legendary_origins.class/magician/fireball.description": "Consumo: 10MP",
+	
+	"power.legendary_origins.class/magician/arcane_shot.name": "Disparo Arcano",
+	"power.legendary_origins.class/magician/arcane_shot.description": "Consumo: 10MP",
+	
+	"power.legendary_origins.class/magician/lightning.name": "Rayo",
+	"power.legendary_origins.class/magician/lightning.description": "Consumo: 10MP",
+	
+	"power.legendary_origins.class/magician/fire_shield.name": "Escudo de Fuego",
+	"power.legendary_origins.class/magician/fire_shield.description": "Consumo: 20MP",
+	
+	"power.legendary_origins.class/magician/ice_shield.name": "Escudo de Hielo",
+	"power.legendary_origins.class/magician/ice_shield.description": "Consumo: 20MP",
+	
+	"power.legendary_origins.class/magician/lightning_shield.name": "Escudo de Rayos",
+	"power.legendary_origins.class/magician/lightning_shield.description": "Consumo: 20MP",
+	
+	"power.legendary_origins.class/magician/lava_trap.name": "Trampa de Lava",
+	"power.legendary_origins.class/magician/lava_trap.description": "Consumo: 40MP",
+	
+	"power.legendary_origins.class/magician/ice_trap.name": "Trampa de Hielo",
+	"power.legendary_origins.class/magician/ice_trap.description": "Consumo: 20MP",
+	
+	"power.legendary_origins.class/magician/healing.name": "Curación",
+	"power.legendary_origins.class/magician/healing.description": "Consumo: 40MP",
+	
+	"power.legendary_origins.class/hunter/core.name": "Carcaj",
+	"power.legendary_origins.class/hunter/core.description": "El carcaj está diseñado para almacenadar flechas permitiendo más espacio en el inventario. Estas flechas se consevarán, aún si el cazador muere.\n",
+	
+	"power.legendary_origins.class/hunter/recipes.name": "Mesa de Flechero",
+	"power.legendary_origins.class/hunter/recipes.description": "El cazador puede fabricar flechas combinando diversos materiales alternativos directamente en una mesa de flechero. También puede utilizar esta mesa de flechero, como una mesa de trabajo alternativa.\n",
+	
+	"power.legendary_origins.class/hunter/shots.name": "Disparos",
+	"power.legendary_origins.class/hunter/shots.description": "Combinando algunos objetos equipados en la mano izquierda con flechas, el cazador puede ejecutar diferentes disparos efectivos a las entidades vivas.\n\nDisparo Perforador: Daño crítico que ignora la armadura [Diamante]\n\nDisparo explosivo: Explota al impactar [Carga ígnea]\n\nDisparo Infernal: Quema al objetivo hasta la muerte. El agua no es una solución a corto plazo. [Crema de Magma]\n\nDisparo Relámpago: Probabilidad de golpear al objetivo con un rayo si está lloviendo [Pararrayos]\n\nDisparo Venenoso: Causa Veneno y Nausea [Hongo Carmesí]\n\nDisparo Corrupto: Causa descompocición [Verruga de Nether]\n\nDisparo Paralizante: Causa Lentitud y Debilidad [Hongo Distorsionado]\n\nDisparo Levitador: Levita al objetivo [Vara del end]\n\nDisparo teleportador: Teletransporta al cazador a la entidad impactada [Perla de Ender]\n\nDisparo Sanador: Cura por completo al jugador impactado [Manzana dorada encantada].",
+
+	"power.legendary_origins.class/druid/eagle_aspect.name": "Aspecto del Águila",
+	"power.legendary_origins.class/druid/eagle_aspect.description": "El aspecto perfecto para explorar desde las alturas. Puede detectar desde lo alto a todas entidades vivas.\n\n• Alimentación: Carne cruda de pollo y conejo.\n• Activación: [SHIFT + 1]\n• Ascender: [PRINCIPAL]\n• Volar: [ESPACIO]\n• Cancelar: [SECUNDARIO]\n• Duración: 1 minuto.\n",
+	
+	"power.legendary_origins.class/druid/dolphin_aspect.name": "Aspecto del Delfín",
+	"power.legendary_origins.class/druid/dolphin_aspect.description": "Eres practicamente un delfín con todas sus virtudes y defectos. Si estás mucho tiempo fuera del agua, ya sabes que pasará.\n\n• Alimentación: Peces crudos\n(Puedes comerlos directamente mientras nadas cuando los atacas sin armas).\n• Activación: [SHIFT + 2]\n• Cancelar: [SECUNDARIO]\n• Duración: 2 minutos.\n",
+
+	"power.legendary_origins.class/druid/wolf_aspect.name": "Aspecto del Lobo",
+	"power.legendary_origins.class/druid/wolf_aspect.description": "Como todo un ALFA tienes una bonificación de poder de ataque sin armas y velocidad mejoradas.\n\n• Alimentación: Todo tipo de carne cruda.\n• Activación: [SHIFT + 3]\n• Cancelar: [SECUNDARIO]\n• Duración: 3 minutos.\n",
+
+	"power.legendary_origins.class/druid/mole_aspect.name": "Aspecto del Topo",
+	"power.legendary_origins.class/druid/mole_aspect.description": "Tiene una limitada visión pero en su corto alcance puede ver perfectamente en la oscuridad.\n\nEs inmunes al veneno.\n\nSus garras están diseñadas para cavar y hacer tuneles de forma eficaz y rápida.\n\nLe encantan los minerales, los metales y las gemas. Cuando está cerca de alguno su cuerpo desprende destellos verdes.\n\nPuede detectarlos a muy corta distancia y aún si están detras de las parades.\n\nAunque sus garras no pueden minarlos, si pueden desprenderlos.\n\n• Alimentación: Ojo de araña y remolacha\n• Activación: [SHIFT + 4]\n• Cancelar: [SECUNDARIO]\n• Duración: 4 minutos.\n",
+
+	"power.legendary_origins.class/druid/superior_pets.name": "Mascotas Superiores",
+	"power.legendary_origins.class/druid/superior_pets.description": "Estando en aspecto de Lobo, puedes domesticar otros lobos salvajes usando una pata de conejo. Estos lobos tendrán una bonificación de salud, ataque y defensa mejoradas.",
+	
+	"power.legendary_origins.class/rogue/core.name": "Habilidades",
+	"power.legendary_origins.class/rogue/core.description": "Depende de la energía para realizar la mayoría de las acciones, aunque puede reponerla tomándose un descanso o durmiendo.\n\nEs ágil, rápido y puede reducir el daño por caída si se agacha antes de tocar tierra.\n\nEl modo sigilo se activará cuando se escabulla en lugares oscuros o por la noche. (Sonido de latidos del corazón)\n\nTiene una excelente visión nocturna y se vuelve temporalmente invisible e Indetectable en modo sigilo.\n\nLos ataques por sorpresa por la espalda en modo sigilo, suelen ser mortales utilizando espadas o cuchillos.\n\nHábil en el uso de ballestas para ataques a distancia.\n\nInmune a la ceguera, la oscuridad y la lentitud.\n\nGracias a un duro entrenamiento, el doble salto es una habilidad natural.\n\nTiene la habilidad de escalar cualquier obstáculo.\n\nMientras está en modo sigilo, puede robar cuidadosamente por la espalda a los aldeanos, pero si es detectado, le será imposible comerciar con ellos debido a la mala reputación temporal.\n",
+	
+	"power.legendary_origins.class/rogue/double_jump.name": "Doble Salto",
+	"power.legendary_origins.class/rogue/double_jump.description": "Gracias a su entrenamiento, el salto doble es una cualidad natural en los pícaros.\n",
+	
+	"power.legendary_origins.class/rogue/climbing.name": "Trepar",
+	"power.legendary_origins.class/rogue/climbing.description": "Poseen la habilidad de trepar o escalar cualquier obstaculo, si su energía se lo permite.\n",
+	
+	"power.legendary_origins.class/rogue/shots.name": "Disparos",
+	"power.legendary_origins.class/rogue/shots.description": "Gracias a las ballestas puede realizar diferentes disparos que le permite ganar ventaja a distancia, utilizando ciertos objetos en su mano secundaria.\n\n• Disparo Oscuro: Raíces Carmesí [Cegera]\n\n• Disparo Venenoso: Raíces Deformadas [Veneno]\n\n• Disparo Perforante: Diamante [Daño Crítico]\n",
+	
+	"power.legendary_origins.class/rogue/ender_chest.name": "Cofre de Ender",
+	"power.legendary_origins.class/rogue/ender_chest.description": "Comienza con un Cofre Ender para ocultar y conservar todo."
+	
+}

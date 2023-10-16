@@ -1,1 +1,127 @@
+{
+	"layer.legendary_origins.class.name": "Class",
 
+	"origin.legendary_origins.class/adventurer.name": "Adventurer",
+	"origin.legendary_origins.class/adventurer.description": "The adventurer loves exploration and discovering. Aways prepared with essential survival objects and alert to any potential danger.\n",
+	
+	"origin.legendary_origins.class/hunter.name": "Hunter",
+	"origin.legendary_origins.class/hunter.description": "Hunters use mostly ranged attacks with archery skills.\n\nStarts with a bow and half stack of arrows.\n\nCan detect close living entities in forests when sneaking.\n\nAt midnight, on top of trees and under the moonlight, detection radius will be wider.\n\nDeals more projectile damage depending on distance and focus.\n\nHunter gets more materials and resources than usual: leather, fur, wool, meat, string, feathers, turtle scales and other interesting bonuses.\n",
+
+	"origin.legendary_origins.class/magician.name": "Magician",
+	"origin.legendary_origins.class/magician.description": "Magicians strike down their enemies, keep them at a distance or hold them back with arcane or elemental spells.\n\nAll offensive, defensive spells and magic traps depend on magic power.\n\nMagic power will regenerate slowly.\n\nRegeneration potions restores Magic Power.\n",
+
+	"origin.legendary_origins.class/rogue.name": "Rogue",
+	"origin.legendary_origins.class/rogue.description": "Rogues usually initiate combat with a surprise attack from the shadows. They are always alert to hide or flee if the battle turns against them.\n",
+
+	"origin.legendary_origins.class/warrior.name": "Warrior",
+	"origin.legendary_origins.class/warrior.description": "Warriors are always ready to fight and most of incoming attacks are reflected on their shield and heavy armor.\n",
+
+	"origin.legendary_origins.class/druid.name": "Druid",
+	"origin.legendary_origins.class/druid.description": "Their different aspects and abilities make them superior beings. Blessed by Mother Nature and recognized as 'Beastsmasters'\n",
+
+	"origin.legendary_origins.race/dwarf.name": "Dwarf",
+	"origin.legendary_origins.race/dwarf.description": "Bold and resilient, dwarves are known as skilled fighters, miners and craftsmen of stone and metal.\n\nThey are always motivated by the desire to get treasures and good luck always follows them.",
+
+	"origin.legendary_origins.race/elf.name": "Elf",
+	"origin.legendary_origins.race/elf.description": "Elves are an ancient race of humanoids, they venerate mother nature and they are intelligent and very lethal in the forests.",
+
+	"origin.legendary_origins.race/human.name": "Human",
+	"origin.legendary_origins.race/human.description": "Humans are the most adaptable and ambitious among the common races.\n\nThey have very varied habits and live fully in the present, which makes them ideal for an adventurous life.\n\nThey are charismatic and excellent traders.",
+
+	"origin.legendary_origins.race/orc.name": "Orc",
+	"origin.legendary_origins.race/orc.description": "Wild and fearless, orcs are always on the hunt for enemies to destroy.\n\nMotivated by their hatred of civilized races and their need to prove that they are the fiercest fighters in the world.",
+	
+	"power.legendary_origins.race/human.name": "Skills",
+	"power.legendary_origins.race/human.description": "Expert Trader: Holding 1 emerald in the main hand, while dealing with a wandering trader, human can bribe him to get remarkable discounts from all traders in the nearby villages for a considerable time and only once per day.",
+
+	"power.legendary_origins.race/elf.name": "Skills",
+	"power.legendary_origins.race/elf.description": "Becomes almost undetectable when hiding in the tall grass or bushes.\n\nCan climb trees and make their way through their leaves to advance or for camouflage.\n\nHas good grip to easily perform maneuvers from one tree to another.\n\nCan reduce fall damage by crouching before touching the ground.\n\nHas moderate resistance to poison and improved night vision.\n\nMovement speed on dirt is better than in other environments, as the height of jumps.",
+
+	"power.legendary_origins.race/orc.name": "Skills",
+	"power.legendary_origins.race/orc.description": "Starts with a stone Axe.\n\nWith natural brute force and extra base damage, orc is certainly a dangerous opponent.\n\nWith a strong and muscular body, the orc has an impressive knockback resistance.\n\nAxes are not just a tool, training and constant use has allowed to increase the attack speed and damage, transforming it into a powerful weapon of war.",
+	
+	"power.legendary_origins.race/dwarf.name": "Skills",
+	"power.legendary_origins.race/dwarf.description": "Starts with a Pickaxe and a stone Shovel.\n\nMining speed is superior to the rest of the races.\n\nThe pickaxe, being a tool of constant use, has also become a weapon, increasing its damage and attack speed.\n\nHas moderated vision in the dark.\n\nDue to prolonged exposure to heat in the depths of the earth, they have acquired a remarkable resistance to high temperatures.",
+	
+	"power.legendary_origins.class/adventurer/core.name": "Skills",
+	"power.legendary_origins.class/adventurer/core.description": "Starts with some essential items for survival: axe, compass, fishing rod, spyglass, food and more.\n\nCan climb trees, mountains and caves if hands are completely free and depending on energy.\n\nEnergy will be depleted when running, swimming or climbing, although it can slowly recover by resting quietly or sleeping.\n",
+	
+	"power.legendary_origins.class/adventurer/backpack.name": "Backpack",
+	"power.legendary_origins.class/adventurer/backpack.description": "Every adventurer always carries a backpack with enough space to store the essentials for survival.\n",
+	
+	"power.legendary_origins.class/adventurer/pocket.name": "Pockets",
+	"power.legendary_origins.class/adventurer/pocket.description": "Extra quick access storage for important or valuable items. These items will be preserved even if the adventurer dies.",
+	
+	"power.legendary_origins.class/warrior/rage.name": "Unstoppable Rage",
+	"power.legendary_origins.class/warrior/rage.description": "For every enemy defeated, the warrior increases its thirst for blood and annihilation to later explode in a violent discharge of deadly critical blows.\n",
+
+	"power.legendary_origins.class/warrior/tank.name": "Unbreakable Defense",
+	"power.legendary_origins.class/warrior/tank.description": "Every time warrior receives physical damage while carrying a shield, the ability to absorb part of it will progressively accumulate Defensive Power until it becomes in a temporary burst of immunity to that type of damage.\n\nShield blow:\n• Uses Defensive Power to charge, damage and blow away anyone in front of it.\n• Activation:\n[Shift]+[Right Clic]\n• Distance: 5 blocks\n• Cooldown: 10 secs.",
+	
+	"power.legendary_origins.class/magician/fireball.name": "Fireball",
+	"power.legendary_origins.class/magician/fireball.description": "Consumption: 10MP",
+	
+	"power.legendary_origins.class/magician/arcane_shot.name": "Arcane Shot",
+	"power.legendary_origins.class/magician/arcane_shot.description": "Consumption: 10MP",
+	
+	"power.legendary_origins.class/magician/lightning.name": "Lightning",
+	"power.legendary_origins.class/magician/lightning.description": "Consumption: 10MP",
+	
+	"power.legendary_origins.class/magician/fire_shield.name": "Fire Shield",
+	"power.legendary_origins.class/magician/fire_shield.description": "Consumption: 20MP",
+	
+	"power.legendary_origins.class/magician/ice_shield.name": "Ice Shield",
+	"power.legendary_origins.class/magician/ice_shield.description": "Consumption: 20MP",
+	
+	"power.legendary_origins.class/magician/lightning_shield.name": "Lightning Shield",
+	"power.legendary_origins.class/magician/lightning_shield.description": "Consumption: 20MP",
+	
+	"power.legendary_origins.class/magician/lava_trap.name": "Lava Trap",
+	"power.legendary_origins.class/magician/lava_trap.description": "Consumption: 40MP",
+	
+	"power.legendary_origins.class/magician/ice_trap.name": "Ice trap",
+	"power.legendary_origins.class/magician/ice_trap.description": "Consumption: 20MP",
+	
+	"power.legendary_origins.class/magician/healing.name": "Healing",
+	"power.legendary_origins.class/magician/healing.description": "Consumption: 40MP",
+	
+	"power.legendary_origins.class/hunter/core.name": "Quiver",
+	"power.legendary_origins.class/hunter/core.description": "The quiver is designed to store arrows allowing more space in the inventory. These arrows will be preserved, even if the hunter dies.\n",
+	
+	"power.legendary_origins.class/hunter/recipes.name": "Fletching Table",
+	"power.legendary_origins.class/hunter/recipes.description": "The hunter can make arrows by combining various alternative materials directly on an fletching table. He can also use this table as an alternative workbench.\n",
+	
+	"power.legendary_origins.class/hunter/shots.name": "Shots",
+	"power.legendary_origins.class/hunter/shots.description": "Combining some objects equipped in the left hand with arrows, hunter can deliver different effective shots to living entities.\n\nPiercing Shot: Critical Damage that ignores armor [Diamond]\n\nExplosive Shot: Explodes on impact [Fire Charge]\n\nInfernal Shot: Burns target to death. Water is not a short time solution. [Magma Cream]\n\nLightning Shot: Chance to hit the target with a lightning bolt if it's raining [Lightning Rod]\n\nPoisonous Shot: Causes Poison and Nausa after the impact damage [Crimson Fungus]\n\nCorrupted Shot: Causes withering [Nether wart]\n\nParalyzing Shot: Causes Slowness and Weakness [Warped Fungus]\n\nLevitating Shot: Levitates target [End Rod]\n\nTeleporting Shot: Teleports hunter to the impacted living entity [Ender Pearl]\n\nHealing Shot: Fully heals the impacted Player [Enchanted Golden Apple]",
+
+	"power.legendary_origins.class/druid/eagle_aspect.name": "Eagle Aspect",
+	"power.legendary_origins.class/druid/eagle_aspect.description": "The perfect aspect to explore from high altitudes. It can detect all living entities.\n\n• Nutrition: Raw chicken and rabbit meat.\n• Activation: [SHIFT + 1]\n• Go up: [MAIN]\n• Fly: [ESPACE BAR]\n• Cancel: [SECONDARY]\n• Duration: 1 min.\n",
+	
+	"power.legendary_origins.class/druid/dolphin_aspect.name": "Dolphin Aspect",
+	"power.legendary_origins.class/druid/dolphin_aspect.description": "You are basically a dolphin with all its virtues and defects. If you are out of the water for too long, you know what will happen.\n\n• Nutrition: Raw fish\n(You can eat them directly while swimming when you attack them without weapons.).\n• Activation: [SHIFT + 2]\n• Cancel: [SECONDARY]\n• Duration: 2 min.\n",
+
+	"power.legendary_origins.class/druid/wolf_aspect.name": "Wolf Aspect",
+	"power.legendary_origins.class/druid/wolf_aspect.description": "As an ALPHA you have an enhanced unarmed attack power bonus and speed.\n\n• Nutrition: Raw Meat.\n• Activation: [SHIFT + 3]\n• Cancel: [SECONDARY]\n• Duration: 3 min.\n",
+
+	"power.legendary_origins.class/druid/mole_aspect.name": "Mole Aspect",
+	"power.legendary_origins.class/druid/mole_aspect.description": "Has limited vision but in its short range it can see perfectly well in the dark.\n\nImmune to poison.\n\nClaws are designed to dig and make tunnels efficiently, quickly and allows climb.\n\nLove minerals, metals and gems. Can detect them at very close range and behind walls emitting green sparkles.\n\nClaws cannot mine ores but can detach them.\n\n• Nutrition: Spider eye and Beetroot\n• Activation: [SHIFT + 4]\n• Cancel: [SECONDARY]\n• Duration: 4 min.\n",
+
+	"power.legendary_origins.class/druid/superior_pets.name": "Superior Pets",
+	"power.legendary_origins.class/druid/superior_pets.description": "While in Wolf aspect, you can tame other wild wolves using a rabbit's foot. These wolves will have an enhanced health, attack and defense bonus.",
+	
+	"power.legendary_origins.class/rogue/core.name": "Skills",
+	"power.legendary_origins.class/rogue/core.description": "Depends on energy to perform most of actions, although it can be replenished by taking a break or sleeping.\n\nRogue is agile, fast and can reduces fall damage if crouches before hitting the land.\n\nStealth mode will activate when sneaking in dark places or at night. (Heartbeat sound).\n\nHas excellent night vision and becomes temporarily invisible and undetectable in stealth mode.\n\nSurprised attacks from behind in stealth mode are usually deadly using swords or knives.\n\nSkilled using crossbows for ranged attacks.\n\nImmune to blindness, darkness and slowness.\n\nThanks to hard training, Double Jump is a natural skill.\n\nHas the ability to climb any obstacle.\n\nWhile in stealth mode, can carefully steal from the behind to villagers, but if detected, will be imposssible to trade with any of them, having a temporary bad reputation.\n",
+	
+	"power.legendary_origins.class/rogue/double_jump.name": "Double Jump",
+	"power.legendary_origins.class/rogue/double_jump.description": "Thanks to their training, double jumping is a natural quality in rogues.\n",
+	
+	"power.legendary_origins.class/rogue/climbing.name": "Climb",
+	"power.legendary_origins.class/rogue/climbing.description": "They have the ability to climb any obstacle, if their energy allows them to do it.\n",
+	
+	"power.legendary_origins.class/rogue/shots.name": "Shots",
+	"power.legendary_origins.class/rogue/shots.description": "With crossbows can deliver different shots allowing some distance advantage by combining some objects in left hand with arrows.\n\n• Dark Shot: Crimson Roots [Blindness]\n\n• Poisonous Shot: Warped Roots [Poison]\n\n• Piercing Shot: Diamanond [Critical Damage]\n",
+	
+	"power.legendary_origins.class/rogue/ender_chest.name": "Ender Chest",
+	"power.legendary_origins.class/rogue/ender_chest.description": "They starts with an Ender Chest to hide and preserve everything."
+	
+}
