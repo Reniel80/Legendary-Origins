@@ -1,5 +1,7 @@
 {
 	"layer.legendary_origins.class.name": "Class",
+	
+	"layer.legendary_origins.profession.name": "Profession",
 
 	"origin.legendary_origins.class/adventurer.name": "Adventurer",
 	"origin.legendary_origins.class/adventurer.description": "The adventurer loves exploration and discovering. Aways prepared with essential survival objects and alert to any potential danger.\n",
@@ -31,8 +33,14 @@
 	"origin.legendary_origins.race/orc.name": "Orc",
 	"origin.legendary_origins.race/orc.description": "Wild and fearless, orcs are always on the hunt for enemies to destroy.\n\nMotivated by their hatred of civilized races and their need to prove that they are the fiercest fighters in the world.",
 	
+	"origin.legendary_origins.profession/farming.name": "Farming",
+	"origin.legendary_origins.profession/farming.description": "Activity aimed at crops harvesting and livestock farm in order to obtain foodstuffs.",
+	
+	"origin.legendary_origins.profession/minning.name": "Minning",
+	"origin.legendary_origins.profession/minning.description": "Miners are experts on breaking rocks accurately to find and extract more resources.",
+	
 	"power.legendary_origins.race/human.name": "Skills",
-	"power.legendary_origins.race/human.description": "Expert Trader: Holding 1 emerald in the main hand, while dealing with a wandering trader, human can bribe him to get remarkable discounts from all traders in the nearby villages for a considerable time and only once per day.",
+	"power.legendary_origins.race/human.description": "Expert Trader: By trading with a wandering trader while carries an emerald in his left hand, will get significant discounts from all traders in nearby villages for a considerable time and only once a day.",
 
 	"power.legendary_origins.race/elf.name": "Skills",
 	"power.legendary_origins.race/elf.description": "Becomes almost undetectable when hiding in the tall grass or bushes.\n\nCan climb trees and make their way through their leaves to advance or for camouflage.\n\nHas good grip to easily perform maneuvers from one tree to another.\n\nCan reduce fall damage by crouching before touching the ground.\n\nHas moderate resistance to poison and improved night vision.\n\nMovement speed on dirt is better than in other environments, as the height of jumps.",
@@ -122,6 +130,12 @@
 	"power.legendary_origins.class/rogue/shots.description": "With crossbows can deliver different shots allowing some distance advantage by combining some objects in left hand with arrows.\n\n• Dark Shot: Crimson Roots [Blindness]\n\n• Poisonous Shot: Warped Roots [Poison]\n\n• Piercing Shot: Diamanond [Critical Damage]\n",
 	
 	"power.legendary_origins.class/rogue/ender_chest.name": "Ender Chest",
-	"power.legendary_origins.class/rogue/ender_chest.description": "They starts with an Ender Chest to hide and preserve everything."
+	"power.legendary_origins.class/rogue/ender_chest.description": "They starts with an Ender Chest to hide and preserve everything.",
+	
+	"power.legendary_origins.profession/farming.name": "Skills",
+	"power.legendary_origins.profession/farming.description": "By using bone meal on a crop, nearby crops within a 3-block radius are also benefited.\n\nMeat and resources obtained from livestock animals are higher.",
+	
+	"power.legendary_origins.profession/minning.name": "Skills",
+	"power.legendary_origins.profession/minning.description": "Excellent digging speed and visibility."
 	
 }
