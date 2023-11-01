@@ -1,5 +1,7 @@
 {
 	"layer.legendary_origins.class.name": "Clase",
+	
+	"layer.legendary_origins.profession.name": "Profesión",
 
 	"origin.legendary_origins.class/adventurer.name": "Aventurero",
 	"origin.legendary_origins.class/adventurer.description": "Al aventurero le apasiona explorar y descubrir. Siempre va preparado con objetos esenciales para la supervivencia y está alerta ante cualquier peligro potencial.\n",
@@ -23,7 +25,7 @@
 	"origin.legendary_origins.race/dwarf.description": "Audaces y resistentes, los enanos son conocidos como hábiles luchadores, mineros y artesanos de la piedra y el metal.\n\nSiempre están motivados por el deseo de conseguir tesoros y la buena suerte siempre los acompaña.\n\nAcostumbrados a la vida bajo tierra, tienen una visión superior en condiciones de oscuridad y penumbra.",
 
 	"origin.legendary_origins.race/elf.name": "Elfo",
-	"origin.legendary_origins.race/elf.description": "Los elfos son una antigua raza de humanoides, veneran a la madre naturaleza, son inteligentes y muy letales en los bosques.",
+	"origin.legendary_origins.race/elf.description": "Los elfos son una antigua raza de humanoides, veneran a la madre naturaleza, son inteligentes y muy letales en los bosques.",	
 
 	"origin.legendary_origins.race/human.name": "Humano",
 	"origin.legendary_origins.race/human.description": "Los humanos son los más adaptables y ambiciosos entre las razas comunes.\n\nTienen costumbres muy variadas y viven plenamente el presente, lo que les hace idóneos para la vida aventurera.\n\nSon carismáticos y excelentes comerciantes.",
@@ -31,8 +33,14 @@
 	"origin.legendary_origins.race/orc.name": "Orco",
 	"origin.legendary_origins.race/orc.description": "Salvajes e intrépidos, los orcos siempre están a la caza de enemigos a los que destruir.\n\nMotivados por su odio a las razas civilizadas y su necesidad de demostrar que son los luchadores mas feroces del mundo.",
 	
+	"origin.legendary_origins.profession/farming.name": "Agricultura",
+	"origin.legendary_origins.profession/farming.description": "Actividad destinada a la cosecha de cultivos y a la cría de animales para la obtención de alimentos.",
+	
+	"origin.legendary_origins.profession/minning.name": "Minería",
+	"origin.legendary_origins.profession/minning.description": "Los mineros son expertos en romper rocas con precisión para encontrar y extraer más recursos.",
+	
 	"power.legendary_origins.race/human.name": "Habilidades",
-	"power.legendary_origins.race/human.description": "Comerciante experto: Llevando 1 esmeralda en la mano principal, al negociar con un comerciante ambulante, el humano puede sobornarlo para obtener notables descuentos de todos los comerciantes de las aldeas cercanas durante un tiempo considerable y solo una vez al día.",
+	"power.legendary_origins.race/human.description": "Comerciante experto: Al comerciar con un vendedor ambulante mientra lleva una esmeralda en la mano izquierda, obtendrá importantes descuentos de todos los comerciantes de los pueblos cercanos durante un tiempo considerable y sólo una vez al día.",
 
 	"power.legendary_origins.race/elf.name": "Habilidades",
 	"power.legendary_origins.race/elf.description": "Se vuelve casi indetectable cuando se esconde entre la hierba alta o los arbustos.\n\nPuede trepar a los árboles y abrirse paso entre sus hojas para avanzar o para camuflarse.\n\nTiene un buen agarre para realizar fácilmente maniobras de un árbol a otro.\n\nPuede reducir el daño de las caídas agachándose antes de tocar el suelo.\n\nTiene una resistencia moderada al veneno y una visión nocturna mejorada.\n\nLa velocidad de movimiento en tierra es mejor que en otros entornos, al igual que la altura de los saltos.",
@@ -122,6 +130,12 @@
 	"power.legendary_origins.class/rogue/shots.description": "Gracias a las ballestas puede realizar diferentes disparos que le permite ganar ventaja a distancia, utilizando ciertos objetos en su mano secundaria.\n\n• Disparo Oscuro: Raíces Carmesí [Cegera]\n\n• Disparo Venenoso: Raíces Deformadas [Veneno]\n\n• Disparo Perforante: Diamante [Daño Crítico]\n",
 	
 	"power.legendary_origins.class/rogue/ender_chest.name": "Cofre de Ender",
-	"power.legendary_origins.class/rogue/ender_chest.description": "Comienza con un Cofre Ender para ocultar y conservar todo."
+	"power.legendary_origins.class/rogue/ender_chest.description": "Comienza con un Cofre Ender para ocultar y conservar todo.",
+	
+	"power.legendary_origins.profession/farming.name": "Habilidades",
+	"power.legendary_origins.profession/farming.description": "Al utilizar polvo de huesos en un cultivo, los cultivos cercanos en un radio de 3 bloques también son beneficiadas.\n\nLa obtencion de carne y recursos de los animales de granja es mayor.",
+	
+	"power.legendary_origins.profession/minning.name": "Habilidades",
+	"power.legendary_origins.profession/minning.description": "Excelente velocidad de excavación y visibilidad."
 	
 }
